@@ -135,7 +135,7 @@ names = [
   "	A thin piece of wood that has fallen or been cut from a tree.	"	,
   "	An ornamental band, hoop, or chain worn on the wrist or arm.	"	,
   "	A large piece of woolen or similar material used as a bed covering or other covering for warmth.	"	,
-  "	(of a place) situated far from the main centers of population; distant.	"	,
+  "	Situated far from the main centers of population; distant.	"	,
   "	The front part of a person's head from the forehead to the chin, or the corresponding part in an animal.	"	,
   "	Clean with water and, typically, soap or detergent.	"	,
   "	A food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.	"	,
