@@ -1,2 +1,2 @@
-# productgenerator-github.io
+# productgenerator.io
 product definition generator
